@@ -1,0 +1,25 @@
+{
+  "name": "dl-mathml-compare",
+  "version": "1.0.0",
+  "description": "Compare MathML expressions",
+  "main": "DLMathMLCompare.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doozielabs/DLMathMLCompare.git"
+  },
+  "keywords": [
+    "MML",
+    "MathML",
+    "Comparision",
+    "Expression"
+  ],
+  "author": "Doozie Labs <letstalk@doozielabs.com> (http://doozielabs.com)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/doozielabs/DLMathMLCompare/issues"
+  },
+  "homepage": "https://github.com/doozielabs/DLMathMLCompare#readme"
+}
